@@ -15,8 +15,8 @@ lista_simples_inteiro.append(6)
 print(lista_simples_inteiro)
 
 # Insert()
-#lista_simples_inteiro.insert(2, "Olá")
-#print(lista_simples_inteiro)
+lista_simples_inteiro.insert(2, "Olá")
+print(lista_simples_inteiro)
 
 # Remove()
 lista_simples_inteiro.remove(1)
