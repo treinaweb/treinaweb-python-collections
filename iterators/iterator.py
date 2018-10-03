@@ -17,3 +17,5 @@ while True:
 # print(next(meu_iter))
 # print(next(meu_iter))
 # print(next(meu_iter))
+
+print(0 ** 2)
