@@ -1,0 +1,19 @@
+#### Lista de commits
+Aula | Video | Commit | Link 
+------ | ------ | ------ | ------ 
+Aula | | 01 - Operações com listas | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/472c792b41cca7a5d6b822cca6c060ff4addd82b.zip) 
+Aula | | 02 - Copiando Listas | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/3047a6eddb755ae758fdceb843991ee7645fae55.zip) 
+Aula | | 03 - List Comprehensions | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/3870756608863c84ad960b3a1efc9bc3a48c4723.zip) 
+Aula | | 04 - Slices Listas | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/2e7947fa4071eced71124ba3face18c0a43c2be8.zip) 
+Aula | | 05 - Iterators Builtin | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/d03304624895be8a4d37395215fe5c529e2563ff.zip) 
+Aula | | 06 - Criando um iterator | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/732c90525659fdf341a5ca1b07297ed7898955cc.zip) 
+Aula | | 07 - Criando um generator | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/637be7316611c8a9ae5f99bac7d7814b967531b0.zip) 
+Aula | | 08 - Tuplas | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/1564bf877a6830233d1cc9e32f33ee35b7a66b25.zip) 
+Aula | | 09 - Ranges | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/e1cc6c8fd7743dd4af01717aa12ac5cf94944888.zip) 
+Aula | | 10 - Operações com sets | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/e8cc542e07ba057dcb9122eecfd5088f12b296fe.zip) 
+Aula | | 11 - Set Comprehensions | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/f15bb5f275f5114312fc453286792042c23343d4.zip) 
+Aula | | 12 - Frozenset | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/a1365085160a3547330b49f1c26150c829a7e42e.zip) 
+Aula | | 13 - Dicionarios | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/6f774c6ca80be7847c01c695bb084448eb662604.zip) 
+Aula | | 14 - Operações com dicionarios | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/53e8f9258c55aecfc7d0076c049e08b4ede80339.zip) 
+Aula | | 15 - Listas como pilhas | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/018ee1a2288ac12cde9d0af4b6a9131e8956497e.zip) 
+Aula | | 16 - Listas como filas | [Download](https://github.com/treinaweb/treinaweb-laravel-apis/archive/6d90b06942eb6ba46d2dcb54271f8a19d612fbb4.zip) 
